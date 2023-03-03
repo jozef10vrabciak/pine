@@ -1,6 +1,3 @@
-// This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
-// © Frien_dd
-
 //@version=5
 indicator('Chart Champions - Part 1 - nPOC - Levels - VWAPs', shorttitle='CC - Pt1 - Lvls nPOC VWAPs', overlay=true)
 
